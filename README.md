@@ -2,7 +2,7 @@
 
 
 **About Me**
-Hey there! I'm Talha, a software developer hailing from Lahore, Pakistan. I recently graduated from the Lahore University of Management Sciences (LUMS) with a Bachelor's degree in Computer Science. When I'm not buried in code, you can find me playing games, dancing to my favorite tunes, or planning my next travel adventure! 🎮💃✈️
+Hey there! I'm Talha, a software developer hailing from Lahore, Pakistan with many miles stones in the path. I recently graduated from the Lahore University of Management Sciences (LUMS) with a Bachelor's degree in Computer Science. When I'm not buried in code, you can find me playing games, dancing to my favorite tunes, or planning my next travel adventure! 🎮💃✈️
 
 
 🌟 **Skills and Interests**
