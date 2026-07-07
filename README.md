@@ -1,5 +1,53 @@
 # 💫 About Me:
-👋 Hello, World! I'm Talha Husnain Bhatti 🌟<br><br>About Me Hey there! I'm Talha, a software developer hailing from Lahore, Pakistan with many miles stones in the path. I graduated from LUMS with a Bachelor's degree in Computer Science. When I'm not buried in code, you can find me playing games, dancing to my favorite tunes, or planning my next travel adventure! 🎮💃✈️<br><br>🌟 Skills and Interests<br><br>Languages & Frameworks:<br><br>C++, TypeScript, Python, React Native, Flutter, Dart, SQL, MongoDB, Express, Node.js, TailwindCSS<br><br>Tools & Technologies:<br><br>Firebase, AWS, Git, Material UI, Bootstrap, Adobe XD, Canva, Figma<br><br>Specialties:<br><br>Frontend Development, Backend Development, AI/ML Model, Automation and workflows, ML algo Full Stack Development, Mobile App Development, Data Manipulation<br><br>Fields of Interest:<br><br>MERN Stack,Mobile App Dev, AI Integration, Blockchain 🚀 What I've Built<br><br>Data Benchmarking Dashboard: A data analysis platform using React, TypeScript, TailwindCSS, GCP for database, and Firebase for auth. UJRET Mobile App: A C2C platform for handyman and carpooling services using React Native, Firebase, PostgreSQL, and Flask. CardPay: A cross-platform app for Android and iOS using Flutter, featuring Domain-Driven Design and Clean Architecture.<br><br>🎓 Education<br><br>Lahore University of Management Sciences (LUMS) BS in Computer Science (Graduated May 2024) Relevant Courses: Data Structures & Algorithms, Software Engineering, Databases, Machine Learning, Blockchain, and more!<br><br>🌍 Let's Connect:<br><br>LinkedIn: Connect with me: https://www.linkedin.com/in/talha-husnain-a93139206/<br><br>Portfolio: Check out my work: https://talha-husnain-portfolio.netlify.app/<br><br>🦸 Fun Fact "The best thing about a boolean is even if you are wrong, you are only off by a bit!" 😂<br><br>Thanks for stopping by! Let's make the world a better place, one line of code at a time. 🌍💻🚀<br><br>
+# Talha Husnain — SaaS MVP Engineer
+
+I take product ideas from **concept to a production-ready SaaS MVP in weeks, not quarters**:fixed scope, fixed price, and you own 100% of the code.
+
+Founder of **AutoNex Solution**. 50+ products shipped across fintech, marketplaces, health, and logistics — including a payments app that passed a fintech security audit on the first pass.
+
+---
+
+### What I build
+
+- **SaaS MVPs** — auth, billing, core workflows, admin panel, deployed to production
+- **AI features** — support agents that resolve tickets, RAG systems, LLM pipelines
+- **Automation & workflows** — the operational glue that saves teams real hours
+
+### How I work
+
+Fixed scope. Fixed price. You talk directly to the engineer writing the code ,  no account-manager layer. Clean, documented handoff your team can pick up on day one.
+
+---
+
+### Selected work
+
+**CardPay** — Cross-platform P2P fintech app (Flutter). Domain-Driven Design, Clean Architecture. Passed a fintech security audit on the first pass.
+
+**UJRET** — Two-sided C2C marketplace for handyman and carpooling services (React Native, Firebase, PostgreSQL). Real-time matching, live map.
+
+**Pixara AI** — End-to-end text-to-video platform. LLM + image generation + voice + FFmpeg orchestration in one pipeline.
+
+**LUMS Marketplace** — Campus marketplace (MERN), taken from zero to production in 6 weeks.
+
+---
+
+### Stack
+
+**Product:** Next.js · React · React Native · Flutter · Node / NestJS · Python
+**Data:** PostgreSQL · MongoDB · Redis
+**AI:** OpenAI / Claude APIs · RAG · voice AI (Vapi, Retell, Bland)
+**Infra:** AWS · Vercel · Firebase · Stripe / Paystack
+
+---
+
+### Work with me
+
+Building something and need it shipped fast, done right, and handed over clean?
+
+🌐 **[autonexsolution.com](https://www.autonexsolution.com/)**
+💼 **[LinkedIn](https://www.linkedin.com/in/talha-husnain-a93139206/)**
+📧 **info@autonexsolution.com**🌍 
+🦸 Fun Fact "The best thing about a boolean is even if you are wrong, you are only off by a bit!" 😂<br><br>Thanks for stopping by! Let's make the world a better place, one line of code at a time. 🌍💻🚀<br><br>
 
 
 ## 🌐 Socials:
