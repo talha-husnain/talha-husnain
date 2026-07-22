@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Talha Husnain, SaaS MVP Engineer
+# Talha Husnain, SaaS Engineer
 
 I take product ideas from **concept to a production-ready SaaS MVP in weeks, not quarters**: fixed scope, fixed price, and you own 100% of the code.
 
